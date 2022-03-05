@@ -3,14 +3,10 @@
 A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ I have Completed the Api Integrations, navigations,
+ search and the external browsing of git repository.
+ First if the internet is connected it takes us to the home where 
+ the users are listed otherwise it shows "No Internet Connection".
+ Then when taped on the user it takes us to the new screen where we can
+ see two tabs which shows the profile and repository. In the repository if we tap
+ on it, it takes us to the web browser and shows the detailed repo.
